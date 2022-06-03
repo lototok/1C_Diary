@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ПрошедшиеЗанятия" id="e67adc64-0be8-4a5c-b17b-871469e4dc3f" configVersion="26e7c4784db85b4e9159bfa74d9cbbd000000000">
+			<Metadata name="AccumulationRegister.ПрошедшиеЗанятия.Resource.КоличествоУроков" id="86aae6f6-c5f4-4672-8e58-196c564ac245"/>
+			<Metadata name="AccumulationRegister.ПрошедшиеЗанятия.Dimension.Предмет" id="ec0e38a3-e3a0-4f86-97fa-c4db41e28b9e"/>
+		</Metadata>
+		<Metadata name="Catalog.Кабинеты" id="6f3bc3b2-1c81-4cc4-a03a-c2be911a9907" configVersion="d230b27119db37498401296637770f0100000000"/>
+		<Metadata name="Catalog.Предметы" id="486cada7-8d43-4c4c-bb4d-4b9c30e63cdf" configVersion="5c7eae2765051a49a370f428f261338000000000">
+			<Metadata name="Catalog.Предметы.Attribute.Кабинет" id="b3f570fc-c2dc-455f-90bc-cf672fd5a8ec"/>
+			<Metadata name="Catalog.Предметы.Attribute.Учитель" id="cd6bda0b-7eef-4693-9f92-40fad4bf2f3d"/>
+		</Metadata>
+		<Metadata name="Catalog.Учителя" id="83c98cfd-9c27-433b-a877-6092909f06b8" configVersion="73dee33f9bc81c4bb84422e1901df0df00000000"/>
+		<Metadata name="CommonForm.Планировщик" id="d1439eb0-c92a-4b7c-b2f8-ea4b0d519a3a" configVersion="f24241fdbd2828418bbc58cd22085eed00000000"/>
+		<Metadata name="CommonForm.Планировщик.Form" id="d1439eb0-c92a-4b7c-b2f8-ea4b0d519a3a.0" configVersion="9e80d1d1a371e84baaf486046a19c98200000000"/>
+		<Metadata name="CommonModule.Серверный" id="7c1da6f7-9768-4c97-a557-09dda08585fa" configVersion="b016e5190e5f7045929ff3ce297be60600000000"/>
+		<Metadata name="CommonModule.Серверный.Module" id="7c1da6f7-9768-4c97-a557-09dda08585fa.0" configVersion="7f349144d8944d4fb5d92b41253fb4eb00000000"/>
+		<Metadata name="Configuration.Дневник" id="890ef34a-e124-49ab-9d9b-ef9cb1213b36" configVersion="ffe830afe79d5045b11ba02bd723f59800000000"/>
+		<Metadata name="Configuration.Дневник.HomePageWorkArea" id="9d7345a2-5629-4c9b-873a-f28afc97a066.8" configVersion="8acd791428b5fa4fa7d140a93f4fa17700000000"/>
+		<Metadata name="Configuration.Дневник.MainSectionCommandInterface" id="9d7345a2-5629-4c9b-873a-f28afc97a066.9" configVersion="a0295bede4d5c04dad2294e44a1030b900000000"/>
+		<Metadata name="Configuration.Дневник.ManagedApplicationModule" id="9d7345a2-5629-4c9b-873a-f28afc97a066.6" configVersion="e580f8eab75d4d43a98c25f565c037d600000000"/>
+		<Metadata name="Document.УчебныйДень" id="1bb7353b-0069-4470-9afe-2305304426f1" configVersion="64bca28d9664164e8eaef4179853d3d000000000">
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.Выполнено" id="417c6315-eabc-4dd7-b368-e7cce2f6c2a4"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.ДомашнееЗадание" id="456a9d61-99b1-4b77-bb4c-5752b8be66b2"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.Предмет" id="7478f395-3b5a-4501-bee1-5ffa10804708"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.КомментарийУчителя" id="79508922-8888-44c3-9eba-eeab08f29ae9"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки.Attribute.Оценка" id="9e4a03dd-c914-40e5-bdb3-30571f53641a"/>
+			<Metadata name="Document.УчебныйДень.TabularSection.Уроки" id="c2eb3511-39a1-4055-980a-c6d6d6c6a8c7"/>
+			<Metadata name="Document.УчебныйДень.Command.ЗаполнитьРасписаниеНаСледующуюНеделю" id="dd822855-94c2-4409-80c0-9bbd30b973f7"/>
+		</Metadata>
+		<Metadata name="Document.УчебныйДень.Command.ЗаполнитьРасписаниеНаСледующуюНеделю.CommandModule" id="dd822855-94c2-4409-80c0-9bbd30b973f7.2" configVersion="ee6c0498f8b47e47aab7a5054ae1c15800000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента" id="e955c39b-c687-4c4b-b660-a36c9e4a0a9e" configVersion="c410119633e71d488c5a01711f9a120400000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаДокумента.Form" id="e955c39b-c687-4c4b-b660-a36c9e4a0a9e.0" configVersion="1ecbfa854c52fa4d9cc80a1920a396cc00000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаСписка" id="18a01bc7-ec52-416b-b003-5f95d9cc7aec" configVersion="8f2943d52c28684dbe4de3566922929000000000"/>
+		<Metadata name="Document.УчебныйДень.Form.ФормаСписка.Form" id="18a01bc7-ec52-416b-b003-5f95d9cc7aec.0" configVersion="d1eb0092c0bbef428e7a4a06682f348a00000000"/>
+		<Metadata name="Document.УчебныйДень.ObjectModule" id="1bb7353b-0069-4470-9afe-2305304426f1.0" configVersion="993f040d9f1b4f498a3682b3f5c92b7400000000"/>
+		<Metadata name="InformationRegister.ДомашниеЗадания" id="fea4fa32-d480-477c-8ec5-644a0acd823c" configVersion="1f4518248b8f4c4988d3a786b108979e00000000">
+			<Metadata name="InformationRegister.ДомашниеЗадания.Resource.ДомашнееЗадание" id="482e4717-a8d2-4ecc-928a-17f898e47341"/>
+			<Metadata name="InformationRegister.ДомашниеЗадания.Resource.Выполнено" id="544a4285-ad11-4e52-b279-914e21234fe9"/>
+			<Metadata name="InformationRegister.ДомашниеЗадания.Dimension.Предмет" id="855ecd35-a740-4ee3-98b8-5a7a7afde483"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДомашниеЗадания.Form.ФормаСписка" id="c5259307-c920-49b8-bd47-5dc7a9378aaf" configVersion="aa304e39a14de741bb9183277c4991fb00000000"/>
+		<Metadata name="InformationRegister.ДомашниеЗадания.Form.ФормаСписка.Form" id="c5259307-c920-49b8-bd47-5dc7a9378aaf.0" configVersion="97c78491285ea44d845ddfe2a913a72800000000"/>
+		<Metadata name="InformationRegister.Оценки" id="7c1d9e0b-e368-439e-91b5-1de3a411d98d" configVersion="400348a6e438b84f8fc170bf8dd06d9900000000">
+			<Metadata name="InformationRegister.Оценки.Resource.Оценка" id="53c458ae-46a5-4553-a866-e52f60e6af35"/>
+			<Metadata name="InformationRegister.Оценки.Dimension.Предмет" id="8caa6920-31db-4e65-8ad6-459ea4a9d2ba"/>
+			<Metadata name="InformationRegister.Оценки.Dimension.НомерУрока" id="e5f55d7b-1e9c-4d51-a326-0899bfb70bfe"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="a7a84102-9914-4a67-a786-3f199c4f38ce" configVersion="29a73f1648ea11419ceeb209516dacda00000000"/>
+		<Metadata name="Report.ПрошедшиеЗанятия" id="18edc656-a77b-4a0f-b3bc-69e4b84f56c3" configVersion="68f834f5b45f294997f81b59353c6d1c00000000"/>
+		<Metadata name="Report.ПрошедшиеЗанятия.Template.ОсновнаяСхемаКомпоновкиДанных" id="51272575-cc27-448a-8a6b-51be87fa9440" configVersion="b086e7315283ff48b8b32560b2d1488a00000000"/>
+		<Metadata name="Report.ПрошедшиеЗанятия.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="51272575-cc27-448a-8a6b-51be87fa9440.0" configVersion="5cc6532915b2964b995e8f77d7e5b8c000000000"/>
+		<Metadata name="Report.Успеваемость" id="96b3521f-3f46-4290-ac6b-b069b6c15023" configVersion="8b73cefb3960e6468552118de9cb345500000000"/>
+		<Metadata name="Report.Успеваемость.Template.ОсновнаяСхемаКомпоновкиДанных" id="68f618e2-f946-4a2a-9892-dd9de677264c" configVersion="cf6c0b228743d84189c2c570e480607d00000000"/>
+		<Metadata name="Report.Успеваемость.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="68f618e2-f946-4a2a-9892-dd9de677264c.0" configVersion="6a0a8021e5979d4e819594eb592df5ca00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
